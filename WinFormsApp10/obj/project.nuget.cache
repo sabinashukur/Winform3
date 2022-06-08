@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lmPo0Gsf1QxElfbF7qgJaJjd1YrvQl2GiXHM7WjKDRm0zEaohGtMxoGRAXPk604O2QV7xd4I3om6XNla9aZr/Q==",
+  "dgSpecHash": "BLJBpmUnqWAo+keFKJuhgGz2I521+9CQa94sQwSZRdg6dM8vyPciFE+ShZafFy0wwIRMkuREgizDutOWsvYQiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Reboot\\source\\repos\\WinFormsApp10\\WinFormsApp10\\WinFormsApp10.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Documents\\source\\repos\\Winform4\\WinFormsApp10\\WinFormsApp10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Documents\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

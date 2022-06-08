@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reboot\\source\\repos\\WinFormsApp10\\WinFormsApp10\\WinFormsApp10.csproj": {}
+    "C:\\Users\\Documents\\source\\repos\\Winform4\\WinFormsApp10\\WinFormsApp10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reboot\\source\\repos\\WinFormsApp10\\WinFormsApp10\\WinFormsApp10.csproj": {
+    "C:\\Users\\Documents\\source\\repos\\Winform4\\WinFormsApp10\\WinFormsApp10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reboot\\source\\repos\\WinFormsApp10\\WinFormsApp10\\WinFormsApp10.csproj",
+        "projectUniqueName": "C:\\Users\\Documents\\source\\repos\\Winform4\\WinFormsApp10\\WinFormsApp10.csproj",
         "projectName": "WinFormsApp10",
-        "projectPath": "C:\\Users\\Reboot\\source\\repos\\WinFormsApp10\\WinFormsApp10\\WinFormsApp10.csproj",
-        "packagesPath": "C:\\Users\\Reboot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reboot\\source\\repos\\WinFormsApp10\\WinFormsApp10\\obj\\",
+        "projectPath": "C:\\Users\\Documents\\source\\repos\\Winform4\\WinFormsApp10\\WinFormsApp10.csproj",
+        "packagesPath": "C:\\Users\\Documents\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Documents\\source\\repos\\Winform4\\WinFormsApp10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Reboot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Documents\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
